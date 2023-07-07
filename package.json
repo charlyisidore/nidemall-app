@@ -1,16 +1,18 @@
 {
-  "name": "litemall-vue",
+  "name": "nidemall-store",
   "version": "0.1.0",
-  "description": "litemall-vue basing on vant--mobile-mall 0.1.0",
-  "author": "litemall <linlinjava@163.com>",
+  "description": "Storefront for NideMall",
+  "author": "Charly Lersteau",
+  "contributors": [
+    "linlinjava <linlinjava@163.com>",
+    "tumobi <tumobi@163.com>"
+  ],
   "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build  --mode production",
-    "build:dep": "vue-cli-service build --mode deployment",
-    "build:prod": "vue-cli-service build --mode production",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
