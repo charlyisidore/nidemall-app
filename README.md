@@ -1,6 +1,6 @@
-# NideMall (storefront)
+# NideMall (mobile app)
 
-Storefront for [NideMall](https://github.com/charlyisidore/nidemall-server).
+Mobile app for [NideMall](https://github.com/charlyisidore/nidemall-server).
 
 ## Installation
 

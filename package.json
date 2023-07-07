@@ -1,7 +1,7 @@
 {
-  "name": "nidemall-store",
+  "name": "nidemall-app",
   "version": "0.1.0",
-  "description": "Storefront for NideMall",
+  "description": "Mobile app for NideMall",
   "author": "Charly Lersteau",
   "contributors": [
     "linlinjava <linlinjava@163.com>",
