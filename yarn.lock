@@ -7969,9 +7969,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nidemall-store@workspace:.":
+"nidemall-app@workspace:.":
   version: 0.0.0-use.local
-  resolution: "nidemall-store@workspace:."
+  resolution: "nidemall-app@workspace:."
   dependencies:
     "@chenfengyuan/vue-countdown": ^1.1.2
     "@vue/cli-plugin-babel": ^3.0.5
