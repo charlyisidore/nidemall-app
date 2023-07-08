@@ -14,6 +14,18 @@ yarn install
 yarn run dev
 ```
 
+## Build
+
+### Android
+
+```bash
+npx cap add android
+cd android/
+./gradlew buildRelease
+```
+
+Output is located in `android/app/build/outputs/apk/release/app-release-unsigned.apk`.
+
 ## License
 
 [MIT](./LICENSE)
